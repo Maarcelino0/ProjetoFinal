@@ -124,7 +124,7 @@ const pilotos = [
         nome: "Alexander Albon",
         equipa: "Williams",
         numero: 23,
-        pais: "Estados Unidos",
+        pais: "Tailândia",
         foto: "fotos/alexander.avif"
     },
     {
@@ -192,7 +192,7 @@ const bandeiras = {
     "Brasil":         "🇧🇷",
     "México":         "🇲🇽",
     "Canadá":         "🇨🇦",
-    "Estados Unidos": "🇺🇸",
+    "Tailândia":      "🇹🇭",
     "Finlândia":      "🇫🇮"
 };
 
