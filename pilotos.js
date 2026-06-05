@@ -23,5 +23,21 @@ const pilotos = [
     pais: "Reino Unido",
     foto: "img/lando.jpg"
 },
+{
+    id: 4,
+    nome: "Oscar Piastri",
+    equipa: "McLaren",
+    numero: 81,
+    pais: "Austrália",
+    foto: "img/oscar.jpg"
+},
+{
+    id: 5,
+    nome: "Charles Leclerc",
+    equipa: "Ferrari",
+    numero: 16,
+    pais: "Mónaco",
+    foto: "img/charles.jpg"
+}
 
 ];
