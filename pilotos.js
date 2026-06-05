@@ -13,7 +13,7 @@ const pilotos = [
         equipa: "Red Bull",
         numero: 6,
         pais: "França",
-        foto: "fotos/isack.jpg"
+        foto: "fotos/isack.avif"
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ const pilotos = [
         equipa: "McLaren",
         numero: 1,
         pais: "Reino Unido",
-        foto: "fotos/lando.jpg"
+        foto: "fotos/lando.avif"
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ const pilotos = [
         equipa: "McLaren",
         numero: 81,
         pais: "Austrália",
-        foto: "fotos/oscar.jpg"
+        foto: "fotos/oscar.avif"
     },
     {
         id: 5,
@@ -37,7 +37,7 @@ const pilotos = [
         equipa: "Ferrari",
         numero: 16,
         pais: "Mónaco",
-        foto: "fotos/charles.jpg"
+        foto: "fotos/charles.avif"
     },
     {
         id: 6,
@@ -45,7 +45,7 @@ const pilotos = [
         equipa: "Ferrari",
         numero: 44,
         pais: "Reino Unido",
-        foto: "fotos/lewis.jpg"
+        foto: "fotos/lewis.avif"
     },
     {
         id: 7,
@@ -53,7 +53,7 @@ const pilotos = [
         equipa: "Mercedes",
         numero: 63,
         pais: "Reino Unido",
-        foto: "fotos/george.jpg"
+        foto: "fotos/george.avif"
     },
     {
         id: 8,
@@ -61,7 +61,7 @@ const pilotos = [
         equipa: "Mercedes",
         numero: 12,
         pais: "Itália",
-        foto: "fotos/kimi.jpg"
+        foto: "fotos/kimi.avif"
     },
     {
         id: 9,
@@ -69,7 +69,7 @@ const pilotos = [
         equipa: "Alpine",
         numero: 43,
         pais: "Argentina",
-        foto: "fotos/franco.jpg"
+        foto: "fotos/franco.avif"
     },
     {
         id: 10,
@@ -77,7 +77,7 @@ const pilotos = [
         equipa: "Alpine",
         numero: 10,
         pais: "França",
-        foto: "fotos/pierre.jpg"
+        foto: "fotos/pierre.avif"
     },
     {
         id: 11,
@@ -85,7 +85,7 @@ const pilotos = [
         equipa: "Racing Bulls",
         numero: 30,
         pais: "Nova Zelândia",
-        foto: "fotos/liam.jpg"
+        foto: "fotos/liam.avif"
     },
     {
         id: 12,
@@ -93,7 +93,7 @@ const pilotos = [
         equipa: "Racing Bulls",
         numero: 41,
         pais: "Reino Unido",
-        foto: "fotos/arvid.jpg"
+        foto: "fotos/arvid.avif"
     },
     {
         id: 13,
@@ -101,7 +101,7 @@ const pilotos = [
         equipa: "Haas",
         numero: 31,
         pais: "França",
-        foto: "fotos/esteban.jpg"
+        foto: "fotos/esteban.avif"
     },
     {
         id: 14,
@@ -109,7 +109,7 @@ const pilotos = [
         equipa: "Haas",
         numero: 87,
         pais: "Reino Unido",
-        foto: "fotos/oliver.jpg"
+        foto: "fotos/oliver.avif"
     },
     {
         id: 15,
@@ -117,7 +117,7 @@ const pilotos = [
         equipa: "WIlliams",
         numero: 55,
         pais: "Espanha",
-        foto: "fotos/carlos.jpg"
+        foto: "fotos/carlos.avif"
     },
     {
         id: 16,
@@ -125,7 +125,7 @@ const pilotos = [
         equipa: "Williams",
         numero: 23,
         pais: "Estados Unidos",
-        foto: "fotos/alexander.jpg"
+        foto: "fotos/alexander.avif"
     },
     {
         id: 17,
@@ -133,7 +133,7 @@ const pilotos = [
         equipa: "Audi",
         numero: 27,
         pais: "Alemanha",
-        foto: "fotos/nico.jpg"
+        foto: "fotos/nico.avif"
     },
     {
         id: 18,
@@ -141,7 +141,7 @@ const pilotos = [
         equipa: "Audi",
         numero: 5,
         pais: "Brasil",
-        foto: "fotos/gabriel.jpg"
+        foto: "fotos/gabriel.avif"
     },
     {
         id: 19,
@@ -149,15 +149,15 @@ const pilotos = [
         equipa: "Cadillac",
         numero: 11,
         pais: "México",
-        foto: "fotos/sergio.jpg"
+        foto: "fotos/sergio.avif"
     },
     {
         id: 20,
         nome: "Valterri Bottas",
         equipa: "Cadillac",
         numero: 77,
-        pais: "Brasil",
-        foto: "fotos/valterri.jpg"
+        pais: "Finlândia",
+        foto: "fotos/valtteri.avif"
     },
     {
         id: 21,
@@ -165,7 +165,7 @@ const pilotos = [
         equipa: "Aston Martin",
         numero: 14,
         pais: "Espanha",
-        foto: "fotos/fernando.jpg"
+        foto: "fotos/fernando.avif"
     },
     {
         id: 22,
@@ -173,7 +173,7 @@ const pilotos = [
         equipa: "Aston Martin",
         numero: 18,
         pais: "Canadá",
-        foto: "fotos/lance.jpg"
+        foto: "fotos/lance.avif"
     }
 ];
 
