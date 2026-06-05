@@ -179,21 +179,21 @@ const pilotos = [
 
 /* Mapeamento de países para emojis de bandeiras */
 const bandeiras = {
-    "Países Baixos": "🇳🇱",
-    "França":         "🇫🇷",
-    "Reino Unido":    "🇬🇧",
-    "Austrália":      "🇦🇺",
-    "Mónaco":         "🇲🇨",
-    "Itália":         "🇮🇹",
-    "Argentina":      "🇦🇷",
-    "Nova Zelândia":  "🇳🇿",
-    "Espanha":        "🇪🇸",
-    "Alemanha":       "🇩🇪",
-    "Brasil":         "🇧🇷",
-    "México":         "🇲🇽",
-    "Canadá":         "🇨🇦",
-    "Tailândia":      "🇹🇭",
-    "Finlândia":      "🇫🇮"
+    "Países Baixos": "NL",
+    "França": "FR",
+    "Reino Unido": "UK",
+    "Austrália": "AU",
+    "Mónaco": "MC",
+    "Itália": "IT",
+    "Argentina": "AR",
+    "Nova Zelândia": "NZ",
+    "Espanha": "ES",
+    "Alemanha": "DE",
+    "Brasil": "BR",
+    "México": "MX",
+    "Canadá": "CA",
+    "Tailândia": "TH",
+    "Finlândia": "FI"
 };
 
 const grid = document.getElementById("pilotos-grid");
