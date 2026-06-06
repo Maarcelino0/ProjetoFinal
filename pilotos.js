@@ -114,7 +114,7 @@ const pilotos = [
     {
         id: 15,
         nome: "Carlos Sainz",
-        equipa: "WIlliams",
+        equipa: "Williams",
         numero: 55,
         pais: "Espanha",
         foto: "fotos/carlos.avif"

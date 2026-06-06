@@ -88,7 +88,6 @@ header {
 .piloto[data-equipa="Racing Bulls"]   { --cor-equipa: #6692FF; --cor-fundo: #030A1A; }
 .piloto[data-equipa="Haas"]           { --cor-equipa: #E8002D; --cor-fundo: #0D0D0D; }
 .piloto[data-equipa="Williams"]       { --cor-equipa: #64C4FF; --cor-fundo: #00091A; }
-.piloto[data-equipa="WIlliams"]       { --cor-equipa: #64C4FF; --cor-fundo: #00091A; }
 .piloto[data-equipa="Audi"]           { --cor-equipa: #39B54A; --cor-fundo: #011208; }
 .piloto[data-equipa="Cadillac"]       { --cor-equipa: #C6A84B; --cor-fundo: #0D0B00; }
 .piloto[data-equipa="Aston Martin"]   { --cor-equipa: #358C75; --cor-fundo: #001A0E; }
